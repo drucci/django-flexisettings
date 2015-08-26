@@ -19,7 +19,7 @@ Configuration
 Gunicorn
 ^^^^^^^^
 
-Following `django's recommandations
+Following `django's recommendations
 <https://docs.djangoproject.com/en/1.5/howto/deployment/wsgi/gunicorn/>`_ on
 how to use gunicorn, the project will run in WSGI mode.
 
